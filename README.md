@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @captainahab
-- 👀 I’m interested in JAMstack, UI/UI
-- 🌱 I’m currently learning NEXT
+- 👀 I’m interested in JAMstack, UX/UI
+- 🌱 I’m currently learning …
 
 <!---
 captainahab/captainahab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
